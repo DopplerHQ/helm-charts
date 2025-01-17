@@ -8,4 +8,4 @@ helm repo add doppler https://helm.doppler.com
 
 # Deployment
 
-This repo has a number of deploy keys which are used by GHA in other repos to push changes.
+This repo has a number of deploy keys which are used by GitHub Actions in other repos to push changes.
